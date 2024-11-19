@@ -8,3 +8,25 @@
  * Running on http://127.0.0.1:3000
  * Running on http://192.168.43.90:3000
 2024-11-18 21:49:16,456 INFO [33mPress CTRL+C to quit[0m
+2024-11-19 14:59:51,000 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.43.90:3000
+2024-11-19 14:59:51,000 INFO [33mPress CTRL+C to quit[0m
+2024-11-19 15:01:22,497 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2000
+ * Running on http://192.168.43.90:2000
+2024-11-19 15:01:22,497 INFO [33mPress CTRL+C to quit[0m
+2024-11-19 15:01:50,802 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2000
+ * Running on http://192.168.43.90:2000
+2024-11-19 15:01:50,802 INFO [33mPress CTRL+C to quit[0m
+2024-11-19 15:02:52,289 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2000
+ * Running on http://192.168.43.90:2000
+2024-11-19 15:02:52,289 INFO [33mPress CTRL+C to quit[0m
+2024-11-19 15:03:11,895 INFO 127.0.0.1 - - [19/Nov/2024 15:03:11] "GET / HTTP/1.1" 200 -
+2024-11-19 15:03:11,993 INFO 127.0.0.1 - - [19/Nov/2024 15:03:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
